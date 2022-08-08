@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.361c48a9.css",
+    "main.js": "/static/js/main.a33eaba6.js",
+    "static/js/787.1ec3c768.chunk.js": "/static/js/787.1ec3c768.chunk.js",
+    "static/media/nlob.gif": "/static/media/nlob.19971acfc8ca6fe79f41.gif",
+    "static/media/gifnord.gif": "/static/media/gifnord.f79e875e16dcadf92faa.gif",
+    "static/media/chat.gif": "/static/media/chat.d4afdedebec4af923c93.gif",
+    "static/media/pokemon.gif": "/static/media/pokemon.149c4c48f480e051079c.gif",
+    "static/media/nlob.png": "/static/media/nlob.4e94399545e7050b3f85.png",
+    "static/media/michael.png": "/static/media/michael.66b2a5e388f0510ce976.png",
+    "static/media/pokemon.png": "/static/media/pokemon.d153b0428db2958cc7f3.png",
+    "static/media/dev.png": "/static/media/dev.83d125423f32b9ee877c.png",
+    "static/media/nordsystem.png": "/static/media/nordsystem.e3af0abed0f2ffb83efd.png",
+    "static/media/chat.png": "/static/media/chat.cd8f1945271c260bd3a3.png",
+    "static/media/icons8-github-512.png": "/static/media/icons8-github-512.b85aa412d81f63e7c8a6.png",
+    "static/media/icons8-whatsapp-240.png": "/static/media/icons8-whatsapp-240.a9712669380433b98c29.png",
+    "index.html": "/index.html",
+    "main.361c48a9.css.map": "/static/css/main.361c48a9.css.map",
+    "main.a33eaba6.js.map": "/static/js/main.a33eaba6.js.map",
+    "787.1ec3c768.chunk.js.map": "/static/js/787.1ec3c768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.361c48a9.css",
+    "static/js/main.a33eaba6.js"
+  ]
+}

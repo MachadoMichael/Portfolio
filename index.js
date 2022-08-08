@@ -8,9 +8,9 @@ require('dotenv').config()
 const user = process.env.USER
 const pass = process.env.PASS
 
-app.use(cors())
-
 app.use(express.static(path.join(__dirname, 'build')))
+
+app.use(cors())
 
 app.post('/contact', express.urlencoded({ extended: true }), (req, res) => {
 

@@ -1,0 +1,8 @@
+{
+  "name": "portfolio end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MachadoMichael/Portfolio.git",
+  "author": "Michael Machado <machado.m3@icloud.com>",
+  "license": "MIT"
+}
